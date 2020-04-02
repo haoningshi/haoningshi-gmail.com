@@ -1,0 +1,5 @@
+﻿  demo.c
+  sm4.c
+  正在生成代码...
+D:\Program Files (x86)\SM4\sm4_yuanchunxu\sm4_yuanchunxu\sm4.c(190): warning C4716: “createRoundKeyEx”: 必须返回一个值
+  sm4_yuanchunxu.vcxproj -> D:\Program Files (x86)\SM4\sm4_yuanchunxu\Debug\sm4_yuanchunxu.exe
